@@ -38,7 +38,7 @@ public class SortColumns {
         System.out.println("List 2: " + Arrays.toString(b));//printing the second array
         System.out.println("Columns to be deleted: " + sc.minDeletionSize(b));//printing the second set of columns to be deleted
 
-        String[] c= {"zyx","wvu","tsr"};//defining the third array of strings
+        String[] c= {"zyx","wvu","tsr"};//defining the third array of strings 
         System.out.println("List 3: " + Arrays.toString(c));//printing the third array
         System.out.println("Columns to be deleted: " + sc.minDeletionSize(c));//printing the third set of columns to be deleted
 
